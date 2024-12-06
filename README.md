@@ -1,0 +1,1 @@
+# EasyOCR-BERT-pipeline-for-NER-
